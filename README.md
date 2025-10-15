@@ -2,7 +2,7 @@
 Power Bi Project
 
 
-Top KPIs (Summary Metrics)
+Top KPIs 
 
 Permit Count: 38,346
 
