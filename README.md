@@ -1,5 +1,7 @@
 # Building-Permit
 Power Bi Project
+
+
 Top KPIs (Summary Metrics)
 
 Permit Count: 38,346
